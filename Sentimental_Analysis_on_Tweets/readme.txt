@@ -1,0 +1,1 @@
+Dataset can be found: https://raw.githubusercontent.com/gabrielpreda/covid-19-tweets/aster/covid19_tweets.csv
